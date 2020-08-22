@@ -1,13 +1,6 @@
-# Recipe [Work in Progress]
+# Foodie
 
 A Recipe Mobile App UI implentation.
 
 ## Screenshots
-### SplashScreen
-![Splash Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Splash.png)
-### Highlights
-![Highlights Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Highlights.png)
-### Search
-![Search Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Search.png)
-### Actions
-![Actions Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Actions.png)
+<img src="screenshots/Splash.png" height="400em" hspace=10 vspace=10/><img src="screenshots/Highlights.png" height="400em" hspace=10 vspace=10/><img src="screenshots/Search.png" height="400em" hspace=10 vspace=10/><img src="screenshots/Actions.png" height="400em" hspace=10 vspace=10/>
