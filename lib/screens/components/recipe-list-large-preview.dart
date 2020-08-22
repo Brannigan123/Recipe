@@ -40,7 +40,7 @@ Widget _backgroundImage(double width, double height, int index) {
   return ClipRRect(
     borderRadius: BorderRadius.circular(8),
     child: Image.network(
-      'https://source.unsplash.com/${width}x$height/?cuisine $index',
+      'https://source.unsplash.com/${width}x$height/?food $index',
       width: width,
       height: height,
       fit: BoxFit.cover,

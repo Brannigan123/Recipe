@@ -49,7 +49,7 @@ class _HighlightsScreenState extends State<HighlightsScreen> {
                     ClipRRect(
                       borderRadius: BorderRadius.circular(8),
                       child: Image.network(
-                        'https://source.unsplash.com/96x72/?cuisine $index',
+                        'https://source.unsplash.com/96x72/?food $index',
                         width: 96,
                         height: 72,
                         fit: BoxFit.cover,

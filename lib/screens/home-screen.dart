@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
     return SafeArea(
       child: Scaffold(
         body: Padding(
-          padding: EdgeInsets.all(16),
+          padding: EdgeInsets.all(4),
           child: PageView(
             controller: _pageController,
             children: [
