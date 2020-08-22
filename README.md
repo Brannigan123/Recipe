@@ -1,16 +1,13 @@
-# Recipe
+# Recipe [Work in Progress]
 
-A new Flutter project.
+A Recipe Mobile App UI implentation.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+### SplashScreen
+![Splash Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Splash.png)
+### Highlights
+![Highlights Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Highlights.png)
+### Search
+![Search Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Search.png)
+### Actions
+![Actions Screen](https://github.com/Brannigan123/Recipe/blob/master/screenshots/Actions.png)
